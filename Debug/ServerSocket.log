@@ -1,0 +1,4 @@
+﻿  ServerSocketDlg.cpp
+  LINK : .\Debug/ServerSocket.exe not found or not built by the last incremental link; performing full link
+ClientSocketDlg.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  ServerSocket.vcxproj -> C:\Users\Mostafa\Downloads\Compressed\ServerSocket\.\Debug\ServerSocket.exe
